@@ -1,0 +1,24 @@
+﻿  Ball.cpp
+  Game.cpp
+  Main.cpp
+  MainWindow.cpp
+  Player.cpp
+C:\Users\Bexzods\Desktop\Pong\Chili 2\Engine\Player.h(10,33): error C2061:  syntax error: identifier 'Ball' (compiling source file Game.cpp)
+C:\Users\Bexzods\Desktop\Pong\Chili 2\Engine\Game.cpp(92,32): error C2660:  'Player::Update': function does not take 2 arguments
+C:\Users\Bexzods\Desktop\Pong\Chili 2\Engine\Player.h(10,7): message :  see declaration of 'Player::Update' (compiling source file Game.cpp)
+C:\Users\Bexzods\Desktop\Pong\Chili 2\Engine\Game.cpp(93,32): error C2660:  'Player::Update': function does not take 2 arguments
+C:\Users\Bexzods\Desktop\Pong\Chili 2\Engine\Player.h(10,7): message :  see declaration of 'Player::Update' (compiling source file Game.cpp)
+C:\Users\Bexzods\Desktop\Pong\Chili 2\Engine\Player.h(10,33): error C2061:  syntax error: identifier 'Ball' (compiling source file Main.cpp)
+C:\Users\Bexzods\Desktop\Pong\Chili 2\Engine\Player.h(10,33): error C2061:  syntax error: identifier 'Ball' (compiling source file MainWindow.cpp)
+C:\Users\Bexzods\Desktop\Pong\Chili 2\Engine\Ball.h(9,26): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int (compiling source file Player.cpp)
+C:\Users\Bexzods\Desktop\Pong\Chili 2\Engine\Ball.h(9,26): error C2143:  syntax error: missing ',' before '&' (compiling source file Player.cpp)
+C:\Users\Bexzods\Desktop\Pong\Chili 2\Engine\Player.cpp(40,9): warning C4244:  '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Bexzods\Desktop\Pong\Chili 2\Engine\Player.cpp(43,25): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Bexzods\Desktop\Pong\Chili 2\Engine\Player.cpp(72,9): warning C4244:  'return': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Bexzods\Desktop\Pong\Chili 2\Engine\Player.h(10,33): error C2061:  syntax error: identifier 'Ball' (compiling source file Ball.cpp)
+C:\Users\Bexzods\Desktop\Pong\Chili 2\Engine\Ball.cpp(15,14): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bexzods\Desktop\Pong\Chili 2\Engine\Ball.cpp(16,14): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bexzods\Desktop\Pong\Chili 2\Engine\Ball.cpp(19,15): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bexzods\Desktop\Pong\Chili 2\Engine\Ball.cpp(20,15): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bexzods\Desktop\Pong\Chili 2\Engine\Ball.cpp(26,9): warning C4244:  '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Bexzods\Desktop\Pong\Chili 2\Engine\Ball.cpp(27,9): warning C4244:  '+=': conversion from 'float' to 'int', possible loss of data
